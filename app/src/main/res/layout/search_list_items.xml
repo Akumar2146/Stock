@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/namee"
+        android:text="Name goes here"
+        android:hint="Name"
+        android:textSize="20sp"
+        android:textColor="#212121"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/brokeragee"
+        android:text="Brokerage Charge goes here"
+        android:hint="Brokerage charge"
+        android:textSize="20sp"
+        android:textColor="#212121"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/intrae"
+        android:text="Intra Charge goes here"
+        android:hint="Intra Charge"
+        android:textSize="20sp"
+        android:textColor="#212121"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/accounte"
+        android:text="Account Charge goes here"
+        android:hint="Account Charge"
+        android:textSize="20sp"
+        android:textColor="#212121"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/annuale"
+        android:text="Annual Charge goes here"
+        android:hint="Annual Charge"
+        android:textSize="20sp"
+        android:textColor="#212121"/>
+
+
+
+
+
+
+</LinearLayout>
